@@ -1,17 +1,17 @@
-<h1 align="center">Hey 👋, I'm Shiva Kumar</h1>
-<h3 align="center">A dedicated Frontend Engineer based in India, driven by a passion for crafting engaging and innovative projects.</h3>
+<h1 align="left">Hey 👋, I'm Shiva Kumar</h1>
+<h3 align="left">A dedicated Frontend Engineer based in India, driven by a passion for crafting engaging and innovative projects.</h3>
 
-<p align="left"> <a href="https://twitter.com/__shk20_" target="blank"><img src="https://img.shields.io/twitter/follow/__shk20_?logo=twitter&style=for-the-badge" alt="__shk20_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/__shk20_" target="blank"><img src="https://img.shields.io/twitter/follow/__shk20_?logo=x&style=for-the-badge&color=1d9bf0&labelColor=121212" alt="__shk20_" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m looking for full time position as a Frontend Engineer. Please get in touch.
 
 - 👨‍💻 All of my projects are available at [shivakodes.me](shivakodes.me)
 
-- 💬 Ask me about **React, NextJs**
+- 💬 Ask me about **React, NextJs, JavasSript**
 
 - 📫 How to reach me **shivakodes@gmail.com**
 
-- 📄 Know about my experiences [shrtco.de/X4899P](shrtco.de/X4899P)
+- 📄 Know about my experiences [Resume](shrtco.de/X4899P)
 
 - ⚡ Fun fact **I can engage you in interesting conversation**
 
